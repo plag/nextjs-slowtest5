@@ -3,7 +3,7 @@ NextJS Speedtest v5.0.0
 
 Run:
 1) `yarn install`
-2) `yarn run dev -p 3001
+2) `yarn run dev -p 3001`
 
 Hot Reload test results:
 
