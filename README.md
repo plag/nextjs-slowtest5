@@ -14,3 +14,7 @@ main.js:13980 [HMR] bundle rebuilt in | 325ms
 main.js:13980 [HMR] bundle rebuilt in | 338ms
 main.js:13980 [HMR] bundle rebuilt in | 326ms
 main.js:13980 [HMR] bundle rebuilt in | 330ms
+
+Demo:
+
+![Demo](https://raw.githubusercontent.com/plag/nextjs-slowtest5/master/next5.gif)
